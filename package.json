@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-spell-guard",
+  "name": "eslint-plugin-spell",
   "version": "0.0.0",
   "description": "ESLint plugin to detect and report misspellings against",
   "main": "dist/index.cjs",

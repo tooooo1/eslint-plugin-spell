@@ -49,7 +49,7 @@ var correctSpellings_default = rule;
 
 // lib/index.ts
 var rules = {
-  "correct-spellings": correctSpellings_default
+  correct: correctSpellings_default
 };
 export {
   rules
