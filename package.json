@@ -30,6 +30,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
+    "prepack": "pnpm build",
     "build": "tsup",
     "build:watch": "tsup --watch"
   },
